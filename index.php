@@ -24,21 +24,6 @@
 
 </head>
 <body>
-<div class="top-wrap" style="position: absolute; top: 1vh;width: 100%;z-index: 999"> 
-<div class="container">
-	<div class="row" style="margin-top: 30px;">
-	    <div class="col">
-	      <img src="./img/logo.png">
-	    </div>
-	    <div class="col">
-	    	<div class="float-right" style="padding-top: 0px;">
-	    		<a class="btn btn-primary btn-filled btn-xs" href="https://github.com/egotong/nows" >开源</a>
-	    	</div>
-	    </div>
-		</div>
-</div>
-</div>
-
 <div class="main-wrapper" style="position: relative; top: -6vh;">
 <div class="container main-sentence justify-content-center text-center">
 	
@@ -61,18 +46,6 @@
 
 </div>
 </div>
-
-<div class="foot-1" style="position: absolute; bottom: 7vh;width: 100%;">
-	<div class="container">
-		<div class="row">
-			<div class="col text-center">
-	            <p class="lead text">截屏分享朋友</p>
-	            <span class="btn btn-primary btn-filled btn-xs"><a class="btn btn-primary btn-filled btn-xs" href="http://www.nows.fun" >www.nows.fun</a></span>
-	    </div>
-  		</div>
-	</div>
-</div>
-
 <div style="display:none;">
 <script type="text/javascript" src="https://s9.cnzz.com/z_stat.php?id=5406879&web_id=5406879"></script>
 </div>
